@@ -1,3 +1,10 @@
+<p>
+  <img src="images/kioskstandorte.png" alt="kiosk standorte" height="290">
+  <img src="images/catchment_areas.png" alt="catchment areas" height="290">
+  <img src="images/catchment_stimmbez_synth.png" alt="total" height="290">
+  
+</p>
+
 # Synthetische Stimmbezirke
 
 Dieses Repository enthält die **Daten und Beispielmaterialien** zum Blogpost

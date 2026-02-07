@@ -12,10 +12,10 @@ Ziel des Projekts ist es, zu demonstrieren, wie mithilfe synthetischer Stimmbezi
 ## Inhalt des Repositories
 
 - **`do_stimmbezirke_2020/`**  
-  Amtliche Stimmbezirksdaten (Dortmund, Bundestagswahl 2020)
+  Amtliche Stimmbezirksdaten (Dortmund, Kommunalwahl NRW 2020)
 
 - **`do_stimmbezirke_2025/`**  
-  Amtliche Stimmbezirksdaten (Dortmund, Bundestagswahl 2025)
+  Amtliche Stimmbezirksdaten (Dortmund, Kommunalwahl NRW 2025)
 
 - **`synth_stimmbez/`**  
   Beispielhafte synthetische Stimmbezirke (Catchment Areas um Kioske)
